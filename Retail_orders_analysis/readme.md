@@ -48,7 +48,7 @@ The key steps in this project include:
 - Install the required Python libraries:
    ```python
    pip install pandas kaggle pyodbc
-```
+   ```
 Install and configure Microsoft SQL Server on your system. You can also use Azure SQL Database for cloud hosting.
 
 # Acknowledgment
